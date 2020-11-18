@@ -6,9 +6,6 @@ This project provides an insecure web application and a hardened web application
 ## Requirements
 1. Python
 
-## Installation
-### Installing Docker for Ubuntu Engine (Recommended)
-
 ## Use Case
 1. Executable is able to run in the background without the user's knowledge
 2. Executable is able to constantly log the keystrokes of the user
