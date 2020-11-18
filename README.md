@@ -1,10 +1,14 @@
 # Keylogger
 
 ## Introduction
-This project provides an insecure web application and a hardened web application for pentesting purposes. The insecure web application contains vulnerabilities as per `OWASP` guidelines. This project is meant for educational purposes only.
+This project explores the use of a keylogger using `Python` as the main programming language, and how this keylogger can be utilised by a potential adversary, without the knowledge of his/her victim. This project is meant for educational purposes only.
 
 ## Requirements
-1. Python
+1. Python 3.7
+
+## Operating Systems
+1. Ubuntu
+2. Windows 10
 
 ## Use Case
 1. Executable is able to run in the background without the user's knowledge
